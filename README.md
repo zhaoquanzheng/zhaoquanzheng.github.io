@@ -1,2 +1,2 @@
 # zhaoquanzheng.github.io
-Tryna set up
+Tryna set up my own website
